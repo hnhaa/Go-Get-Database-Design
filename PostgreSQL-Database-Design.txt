@@ -1,7 +1,4 @@
--- 5 Autumn 2022
--- Nhat Ha Huynh
--- nhatha.huynh@student.uts.edu.au
--- 24714976
+
 
 -- GoGet is a car-sharing platform in Australia that allows members to book a vehicle hourly or daily. 
 -- It provides a flexible alternative to car ownership and offers a range of vehicles located throughout 
