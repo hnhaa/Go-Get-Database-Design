@@ -22,16 +22,16 @@ Prior to constructing the PostgreSQL database, I meticulously crafted an Entity-
 ### 2. Tables and views
 The database is constructed with 10 tables and 3 views.
 ### View 1: Booking Details
-![alt text](<Screenshot 2024-02-06 at 00.42.03.png>)
+![alt text](<Screenshot 2024-02-06 at 00.42.03-1.png>)
 ### View 2: Booking Details
-![alt text](<Screenshot 2024-02-06 at 00.42.21.png>)
+![alt text](<Screenshot 2024-02-06 at 00.42.21-1.png>)
 ### View 3: Plan Type 
-![alt text](<Screenshot 2024-02-06 at 00.42.36.png>)
+![alt text](<Screenshot 2024-02-06 at 00.42.36-1.png>)
 
 ### 3. Check Statements
 To ensure data integrity, I used the CHECK constraints to limit the range of vvalues that can 
 he CHECK constraint is used to limit the range of values that can be inserted into a column. It ensures that the values in a column meet specific conditions defined by the user.
-![alt text](<Screenshot 2024-02-06 at 00.43.06.png>)
+![alt text](<Screenshot 2024-02-06 at 00.43.06-1.png>)
 ### 3. Queries
 To retrieve certain insights from the database, I have conducted different types of queries as follow.
-![alt text](<Screenshot 2024-02-06 at 00.43.21.png>) ![alt text](<Screenshot 2024-02-06 at 00.43.30.png>) ![alt text](<Screenshot 2024-02-06 at 00.43.43.png>) ![alt text](<Screenshot 2024-02-06 at 00.43.52.png>) ![alt text](<Screenshot 2024-02-06 at 00.44.03.png>) ![alt text](<Screenshot 2024-02-06 at 00.44.14.png>)
+![alt text](<Screenshot 2024-02-06 at 00.43.21-1.png>) ![alt text](<Screenshot 2024-02-06 at 00.43.30-1.png>) ![alt text](<Screenshot 2024-02-06 at 00.43.43-1.png>) ![alt text](<Screenshot 2024-02-06 at 00.43.52-1.png>) ![alt text](<Screenshot 2024-02-06 at 00.44.03-1.png>) ![alt text](<Screenshot 2024-02-06 at 00.44.14-1.png>)
