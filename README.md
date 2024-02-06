@@ -18,19 +18,31 @@ By leveraging PostgreSQL, the aim is to enhance data management efficiency, enab
 Prior to constructing the PostgreSQL database, I meticulously crafted an Entity-Relationship Diagram (ERD) to comprehensively encapsulate entities, their attributes, and intricate relationships. The ERD incorporates primary keys for unique entity identification and employs foreign keys to delineate associations between tables. This strategic design facilitates the establishment of a robust and interlinked database structure.
 </div>
 
+![ERD](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/ERD.png)
+
 ### 2. Tables and views
 The database is constructed with 10 tables and 3 views.
 ### View 1: Booking Details
+![alt text](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/View1.png)
 
-![alt text](<View 1.png>)
 ### View 2: Booking Details
+![alt text](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/View2.png)
 
 ### View 3: Plan Type 
-
+![alt text](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/View3.png)
 
 ### 3. Check Statements
 To ensure data integrity, I used the CHECK constraints to limit the range of vvalues that can 
 he CHECK constraint is used to limit the range of values that can be inserted into a column. It ensures that the values in a column meet specific conditions defined by the user.
 
+![alt text](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/Check.png)
+
 ### 3. Queries
 To retrieve certain insights from the database, I have conducted different types of queries as follow.
+
+![Query1](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/Query1.png)
+![Query2](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/Query2.png)
+![Query3](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/Query3.png)
+![Query4](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/Query4.png)
+![Query5](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/Query5.png)
+![Query6](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/Query6.png)
