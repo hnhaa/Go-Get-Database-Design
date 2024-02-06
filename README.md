@@ -23,6 +23,7 @@ Prior to constructing the PostgreSQL database, I meticulously crafted an Entity-
 ### 2. Tables and views
 The database is constructed with 10 tables and 3 views.
 ### View 1: Booking Details
+![alt text](https://github.com/hnhaa/Go-Get-Database-Design/blob/main/Images/View1.png)
 ![alt text](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/Images/View1.png)
 
 ### View 2: Booking Details
