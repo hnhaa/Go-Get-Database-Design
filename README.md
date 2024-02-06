@@ -22,6 +22,7 @@ Prior to constructing the PostgreSQL database, I meticulously crafted an Entity-
 The database is constructed with 10 tables and 3 views.
 ### View 1: Booking Details
 
+![alt text](<View 1.png>)
 ### View 2: Booking Details
 
 ### View 3: Plan Type 
