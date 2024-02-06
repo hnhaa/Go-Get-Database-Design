@@ -18,7 +18,7 @@ By leveraging PostgreSQL, the aim is to enhance data management efficiency, enab
 Prior to constructing the PostgreSQL database, I meticulously crafted an Entity-Relationship Diagram (ERD) to comprehensively encapsulate entities, their attributes, and intricate relationships. The ERD incorporates primary keys for unique entity identification and employs foreign keys to delineate associations between tables. This strategic design facilitates the establishment of a robust and interlinked database structure.
 </div>
 
-![ERD](/Users/nhatha/Documents/GitHub/Go-Get-Database-Design/blob/main/Images/ERD.png)
+![ERD](https://github.com/hnhaa/Go-Get-Database-Design/blob/main/Images/ERD.png)
 
 ### 2. Tables and views
 The database is constructed with 10 tables and 3 views.
