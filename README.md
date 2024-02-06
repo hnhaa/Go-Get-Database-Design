@@ -46,4 +46,4 @@ To retrieve certain insights from the database, I have conducted different types
 ![Query3](https://github.com/hnhaa/Go-Get-Database-Design/blob/main/Images/Query3.png)
 ![Query4](https://github.com/hnhaa/Go-Get-Database-Design/blob/main/Images/Query4.png)
 ![Query5](https://github.com/hnhaa/Go-Get-Database-Design/blob/main/Images/Query5.png)
-![Query6](https://github.com/hnhaa/Go-Get-Database-Design/blob/main/blob/main/Images/Query6.png)
+![Query6](https://github.com/hnhaa/Go-Get-Database-Design/blob/main/Images/Query6.png)
